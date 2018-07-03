@@ -15,10 +15,12 @@ A project that allows the user to post a comment, read each previous comment, ra
 
 **Link to project:** localhost:8000
 
-![alt tag](
+<img width="1280" alt="screen shot 2018-07-03 at 5 16 07 pm" src="https://user-images.githubusercontent.com/39106582/42244949-fc00b2da-7ee4-11e8-980b-ff20a7515e35.png">
+
+<!-- ![alt tag](
   http://placecorgi.com/1200/650
 http://placecorgi.com/1200/650
-)
+) -->
 
 ## How It's Made:
 
